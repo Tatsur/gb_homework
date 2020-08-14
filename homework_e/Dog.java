@@ -30,5 +30,4 @@ public class Dog extends Animal{
             System.out.println("Пёсик "+selfNumber+" перепрыгнул");
         } else System.out.println("Пёсик "+selfNumber+" не допрыгнул");
     }
-
 }

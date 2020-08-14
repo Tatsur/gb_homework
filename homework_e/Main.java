@@ -11,5 +11,4 @@ public class Main {
             animals[i].jump(0.5);
         }
     }
-
 }
